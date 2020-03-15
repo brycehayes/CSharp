@@ -20,11 +20,7 @@ namespace GradeBook
             System.Console.WriteLine($"Average grade is:  {result/grades.Count:N3}");
             System.Console.WriteLine("Result of arrays is: " + result);
 
-            if (args.Length > 0) {
-                Console.WriteLine($"Hello, {args[0]}");
-            } else {
-                Console.WriteLine("Hello");
-            }
+            
         }
     }
 }
