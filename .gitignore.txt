@@ -1,6 +1,9 @@
 *.dll
 *.exe
 *.pdb
+*.cache
+*.props
+*.targets
 
-src/GradeBook/bin/*
-src/GradeBook/obj/*
+/src/GradeBook/bin/*
+/src/GradeBook/obj/*
